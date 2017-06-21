@@ -9,4 +9,5 @@ Homework samples are taken from the following textbook: Gaddis, Tony. Starting O
 These are for reference only and are meant to aid you into doing your own work. Just copying my homework and turning it in will get you an A for the course, but will get you absolutely no where in your career. Do the work for youself, if you get stuck, come back here and take a look at how I did, then go back and try it for yourself again.
 
 If you need help with any of the homework assignments, I much rather have you email me personally and ask a question instead of just copying my work. 
-##### You can email me at amallard1@cougars.ccis.edu
+
+##### You can email me at adam.allard@live.com
